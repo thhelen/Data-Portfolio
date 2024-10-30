@@ -18,3 +18,16 @@
  suffering from these issues and find out that if we can conclude that with solving such systemic issues,
  there will be betterment in healthcare facilities of the country.
 
+# Data Sources
+
+ -  We are using the World Bank's Open Data on Poverty and Equity database as the primary dataset. This
+ dataset includes statistics on poverty and inequality that have been collected from reputable
+ international sources. Poverty indicators include the poverty ratio, the poverty gap, and the number of
+ poor people at both international and national poverty lines. The Gini index and distributions of income
+ or consumption are indicators of inequality. The database contains ratings for countries, regions, and
+ the world. We are primarily interested in their estimations of the nation's Gini index, a commonly used
+ indicator of economic inequality, because we are curious to understand how corruption, health factors,
+ and financial inequality are related.
+- Corruption Perceptions Index: The Corruption Perceptions Index evaluates and ranks countries/regions based on how corrupt the country's public sector is perceived to be. This index has been derived from a combination of surveys and assessments collected by several reputable institutions. CPI is the most widely used corruption index in the world.
+- World Health Statistics: This dataset contains the latest and most up-to-date health statistics from around the world. From this dataset we will be looking at major attributes such as infant mortality rate, alcohol substance abuse, suicide rate, life expextancy at birth rate, and population percentage that spends more than 25% of expenditure on healthcare.
+
